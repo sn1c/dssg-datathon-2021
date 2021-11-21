@@ -1,2 +1,5 @@
 geopandas
+matplotlib
 pandas
+seaborn
+statsmodels
